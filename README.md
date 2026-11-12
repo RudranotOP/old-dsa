@@ -10,6 +10,7 @@ Just coding for fun :)
 | [1301-number-of-paths-with-max-score](https://github.com/RudranotOP/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RudranotOP/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RudranotOP/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RudranotOP/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RudranotOP/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RudranotOP/DSA/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
